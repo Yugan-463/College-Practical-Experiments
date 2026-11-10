@@ -1,0 +1,25 @@
+# College Practical Experiments
+
+## About This Repository
+This repository contains source codes developed and executed as part of my college practical experiments.
+
+It is maintained as a digital record of practical work and serves as proof of program implementation and completion.
+
+## Student Details
+- **Name:** Yugan M
+- **Course:** Computer Science and Engineering (CSE)
+- **Programming Language:** C++
+- **Purpose:** College Practical Experiments
+
+## Repository Contents
+This repository includes:
+- Practical experiment programs
+- Source code files
+- Program descriptions
+- Sample outputs (where applicable)
+
+## Objective
+To maintain and document practical programming experiments in an organized digital format for academic reference and verification.
+
+## Author
+Yugan M
